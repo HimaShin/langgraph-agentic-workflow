@@ -3,3 +3,4 @@ langchain
 langgraph
 streamlit
 python-dotenv
+together
